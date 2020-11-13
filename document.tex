@@ -1,17 +1,25 @@
-\documentclass[a4paper,12pt]{article}
+\documentclass[a4paper,12pt,french]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[french]{babel}
 
+\usepackage{sectsty}
+
+\usepackage{framed}
+
 \begin{document}
-
-ref1 \cite{ref1}
-ref2 \cite{ref2}
-ref3 \cite{ref3} 
-ref3 \cite{ref4}
-
-
-\renewcommand\bibname{Références}
-\bibliographystyle{swealpha}
-\bibliography{base_exo4}
+	
+	\section{title}
+	
+	ref1 \cite{ref1}
+	ref2 \cite{ref2}
+	ref3 \cite{ref3} 
+	ref3 \cite{ref4}
+	
+	\begin{framed}
+		\allsectionsfont{\centering\normalfont\large\scshape}
+		\renewcommand\bibname{Références}
+		\bibliographystyle{alpha-fr}
+		\bibliography{base_exo4}
+	\end{framed}
 \end{document}
