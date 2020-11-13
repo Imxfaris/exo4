@@ -1,0 +1,24 @@
+\begin{thebibliography}{Che09}
+
+\bibitem[BC10]{ref1}
+Denis Bitouz{\'e} och Jean-C{\^o}me Charpentier.
+\newblock {\em Introduction à \LaTeX{}}.
+\newblock Pearson, July 2010.
+
+\bibitem[Che09]{ref2}
+C{\'e}line Chevalier.
+\newblock {\em \LaTeX{} pour l'impatient}.
+\newblock H \& K, November 2009.
+
+\bibitem[Des03]{ref3}
+Bernard Desgraupes.
+\newblock {\em \LaTeX{}: apprentissage, guide et r{\'e}f{\'e}rence}.
+\newblock Vuibert, deuxième edition utg\aa van, February 2003.
+
+\bibitem[Loz08]{ref4}
+Vincent Lozano.
+\newblock {\em Tout ce que vous avez toujours voulu savoir sur \LaTeX{}sans
+  jamais oser le demander}.
+\newblock In Libro Veritas, October 2008.
+
+\end{thebibliography}

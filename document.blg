@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: swealpha.bst
+Reallocating 'name_of_file' (item size: 1) to 10 items.
+Database file #1: base_exo4.bib
+Warning--empty publisher in ref4
+You've used 4 entries,
+            2540 wiz_defined-function locations,
+            586 strings with 4866 characters,
+and the built_in function-call counts, 1178 in all, are:
+= -- 100
+> -- 42
+< -- 3
++ -- 12
+- -- 12
+* -- 73
+:= -- 209
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 18
+chr.to.int$ -- 4
+cite$ -- 5
+duplicate$ -- 63
+empty$ -- 101
+format.name$ -- 19
+if$ -- 234
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 8
+newline$ -- 23
+num.names$ -- 12
+pop$ -- 35
+preamble$ -- 1
+purify$ -- 25
+quote$ -- 0
+skip$ -- 40
+stack$ -- 0
+substring$ -- 28
+swap$ -- 4
+text.length$ -- 3
+text.prefix$ -- 3
+top$ -- 0
+type$ -- 16
+warning$ -- 1
+while$ -- 9
+width$ -- 7
+write$ -- 51
+(There was 1 warning)
